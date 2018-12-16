@@ -1,0 +1,14 @@
+C:\work\myobtest\Webapi\bin\Debug\netcoreapp2.1\Webapi.deps.json
+C:\work\myobtest\Webapi\bin\Debug\netcoreapp2.1\Webapi.runtimeconfig.json
+C:\work\myobtest\Webapi\bin\Debug\netcoreapp2.1\Webapi.runtimeconfig.dev.json
+C:\work\myobtest\Webapi\bin\Debug\netcoreapp2.1\Webapi.dll
+C:\work\myobtest\Webapi\bin\Debug\netcoreapp2.1\Webapi.pdb
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.csprojAssemblyReference.cache
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.csproj.CoreCompileInputs.cache
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorAssemblyInfo.cache
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorAssemblyInfo.cs
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.AssemblyInfoInputs.cache
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.AssemblyInfo.cs
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.RazorTargetAssemblyInfo.cache
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.dll
+C:\work\myobtest\Webapi\obj\Debug\netcoreapp2.1\Webapi.pdb
